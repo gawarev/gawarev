@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Vishal here..
 
 <!--
 **gawarev/gawarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Tech Stack
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0081cc?style=flat-square&logo=mysql&logoColor=white"/> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa200?style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
