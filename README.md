@@ -30,4 +30,5 @@ Here are some ideas to get you started:
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white">
   <img alt="Playwright" src="https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
  </p>
