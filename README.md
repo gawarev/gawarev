@@ -25,4 +25,5 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white">
  </p>
