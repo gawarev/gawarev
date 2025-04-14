@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gawarev&theme=Javascript&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[LeetCode](https://leetcode.com/u/gawarevv)
+
 ### Tech Stack
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
